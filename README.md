@@ -138,11 +138,11 @@ class EventAdapter : ListAdapter<Event, RecyclerView.ViewHolder>(DIFF) {
 
 ## 📸 Screenshots
 
-*(Thêm screenshots các màn hình chính tại đây)*
+//
 
 ## 👤 Author
 
-Your Name - Android Developer
+NguyenUzuu - Android Developer
 
 ## 📝 License
 
